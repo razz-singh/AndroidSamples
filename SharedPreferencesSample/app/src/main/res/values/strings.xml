@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferencesSample</string>
+    <string name="welcome_to_brainzers">Welcome to Brainzers</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="log_out">Logout</string>
+</resources>
